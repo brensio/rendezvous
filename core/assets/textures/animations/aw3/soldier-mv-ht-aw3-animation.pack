@@ -1,0 +1,145 @@
+
+soldier-mv-ht-aw3-animation.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+soldier-mv-ht-aw3
+  rotate: false
+  xy: 0, 0
+  size: 57, 114
+  orig: 57, 114
+  offset: 0, 0
+  index: 0
+soldier-mv-ht-aw3
+  rotate: false
+  xy: 0, 0
+  size: 57, 114
+  orig: 57, 114
+  offset: 0, 0
+  index: 10
+soldier-mv-ht-aw3
+  rotate: false
+  xy: 57, 0
+  size: 57, 114
+  orig: 57, 114
+  offset: 0, 0
+  index: 1
+soldier-mv-ht-aw3
+  rotate: false
+  xy: 114, 0
+  size: 57, 114
+  orig: 57, 114
+  offset: 0, 0
+  index: 2
+soldier-mv-ht-aw3
+  rotate: false
+  xy: 171, 0
+  size: 57, 114
+  orig: 57, 114
+  offset: 0, 0
+  index: 3
+soldier-mv-ht-aw3
+  rotate: false
+  xy: 228, 0
+  size: 57, 114
+  orig: 57, 114
+  offset: 0, 0
+  index: 4
+soldier-mv-ht-aw3
+  rotate: false
+  xy: 285, 0
+  size: 57, 114
+  orig: 57, 114
+  offset: 0, 0
+  index: 5
+soldier-mv-ht-aw3
+  rotate: false
+  xy: 342, 0
+  size: 57, 114
+  orig: 57, 114
+  offset: 0, 0
+  index: 6
+soldier-mv-ht-aw3
+  rotate: false
+  xy: 399, 0
+  size: 57, 114
+  orig: 57, 114
+  offset: 0, 0
+  index: 7
+soldier-mv-ht-aw3
+  rotate: false
+  xy: 456, 0
+  size: 57, 114
+  orig: 57, 114
+  offset: 0, 0
+  index: 8
+soldier-mv-ht-aw3
+  rotate: false
+  xy: 513, 0
+  size: 57, 114
+  orig: 57, 114
+  offset: 0, 0
+  index: 9
+soldier-mv-ht-aw3
+  rotate: false
+  xy: 570, 0
+  size: 57, 114
+  orig: 57, 114
+  offset: 0, 0
+  index: 11
+soldier-mv-ht-aw3
+  rotate: false
+  xy: 627, 0
+  size: 57, 114
+  orig: 57, 114
+  offset: 0, 0
+  index: 12
+soldier-mv-ht-aw3
+  rotate: false
+  xy: 684, 0
+  size: 57, 114
+  orig: 57, 114
+  offset: 0, 0
+  index: 13
+soldier-mv-ht-aw3
+  rotate: false
+  xy: 741, 0
+  size: 57, 114
+  orig: 57, 114
+  offset: 0, 0
+  index: 14
+soldier-mv-ht-aw3
+  rotate: false
+  xy: 798, 0
+  size: 57, 114
+  orig: 57, 114
+  offset: 0, 0
+  index: 15
+soldier-mv-ht-aw3
+  rotate: false
+  xy: 855, 0
+  size: 57, 114
+  orig: 57, 114
+  offset: 0, 0
+  index: 16
+soldier-mv-ht-aw3
+  rotate: false
+  xy: 912, 0
+  size: 57, 114
+  orig: 57, 114
+  offset: 0, 0
+  index: 17
+soldier-mv-ht-aw3
+  rotate: false
+  xy: 969, 0
+  size: 57, 114
+  orig: 57, 114
+  offset: 0, 0
+  index: 18
+soldier-mv-ht-aw3
+  rotate: false
+  xy: 1026, 0
+  size: 57, 114
+  orig: 57, 114
+  offset: 0, 0
+  index: 19

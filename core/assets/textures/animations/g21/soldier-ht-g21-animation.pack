@@ -1,0 +1,145 @@
+
+soldier-ht-g21-animation.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+soldier-ht-g21
+  rotate: false
+  xy: 0, 0
+  size: 54, 88
+  orig: 54, 88
+  offset: 0, 0
+  index: 0
+soldier-ht-g21
+  rotate: false
+  xy: 0, 0
+  size: 54, 88
+  orig: 54, 88
+  offset: 0, 0
+  index: 10
+soldier-ht-g21
+  rotate: false
+  xy: 54, 0
+  size: 54, 88
+  orig: 54, 88
+  offset: 0, 0
+  index: 1
+soldier-ht-g21
+  rotate: false
+  xy: 108, 0
+  size: 54, 88
+  orig: 54, 88
+  offset: 0, 0
+  index: 2
+soldier-ht-g21
+  rotate: false
+  xy: 162, 0
+  size: 54, 88
+  orig: 54, 88
+  offset: 0, 0
+  index: 3
+soldier-ht-g21
+  rotate: false
+  xy: 216, 0
+  size: 54, 88
+  orig: 54, 88
+  offset: 0, 0
+  index: 4
+soldier-ht-g21
+  rotate: false
+  xy: 270, 0
+  size: 54, 88
+  orig: 54, 88
+  offset: 0, 0
+  index: 5
+soldier-ht-g21
+  rotate: false
+  xy: 324, 0
+  size: 54, 88
+  orig: 54, 88
+  offset: 0, 0
+  index: 6
+soldier-ht-g21
+  rotate: false
+  xy: 378, 0
+  size: 54, 88
+  orig: 54, 88
+  offset: 0, 0
+  index: 7
+soldier-ht-g21
+  rotate: false
+  xy: 432, 0
+  size: 54, 88
+  orig: 54, 88
+  offset: 0, 0
+  index: 8
+soldier-ht-g21
+  rotate: false
+  xy: 486, 0
+  size: 54, 88
+  orig: 54, 88
+  offset: 0, 0
+  index: 9
+soldier-ht-g21
+  rotate: false
+  xy: 540, 0
+  size: 54, 88
+  orig: 54, 88
+  offset: 0, 0
+  index: 11
+soldier-ht-g21
+  rotate: false
+  xy: 594, 0
+  size: 54, 88
+  orig: 54, 88
+  offset: 0, 0
+  index: 12
+soldier-ht-g21
+  rotate: false
+  xy: 648, 0
+  size: 54, 88
+  orig: 54, 88
+  offset: 0, 0
+  index: 13
+soldier-ht-g21
+  rotate: false
+  xy: 702, 0
+  size: 54, 88
+  orig: 54, 88
+  offset: 0, 0
+  index: 14
+soldier-ht-g21
+  rotate: false
+  xy: 756, 0
+  size: 54, 88
+  orig: 54, 88
+  offset: 0, 0
+  index: 15
+soldier-ht-g21
+  rotate: false
+  xy: 810, 0
+  size: 54, 88
+  orig: 54, 88
+  offset: 0, 0
+  index: 16
+soldier-ht-g21
+  rotate: false
+  xy: 864, 0
+  size: 54, 88
+  orig: 54, 88
+  offset: 0, 0
+  index: 17
+soldier-ht-g21
+  rotate: false
+  xy: 918, 0
+  size: 54, 88
+  orig: 54, 88
+  offset: 0, 0
+  index: 18
+soldier-ht-g21
+  rotate: false
+  xy: 972, 0
+  size: 54, 88
+  orig: 54, 88
+  offset: 0, 0
+  index: 19

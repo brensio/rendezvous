@@ -1,0 +1,145 @@
+
+soldier-sv-ct-w16a-animation.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+soldier-sv-ct-w16a
+  rotate: false
+  xy: 0, 0
+  size: 57, 106
+  orig: 57, 106
+  offset: 0, 0
+  index: 0
+soldier-sv-ct-w16a
+  rotate: false
+  xy: 0, 0
+  size: 57, 106
+  orig: 57, 106
+  offset: 0, 0
+  index: 10
+soldier-sv-ct-w16a
+  rotate: false
+  xy: 57, 0
+  size: 57, 106
+  orig: 57, 106
+  offset: 0, 0
+  index: 1
+soldier-sv-ct-w16a
+  rotate: false
+  xy: 114, 0
+  size: 57, 106
+  orig: 57, 106
+  offset: 0, 0
+  index: 2
+soldier-sv-ct-w16a
+  rotate: false
+  xy: 171, 0
+  size: 57, 106
+  orig: 57, 106
+  offset: 0, 0
+  index: 3
+soldier-sv-ct-w16a
+  rotate: false
+  xy: 228, 0
+  size: 57, 106
+  orig: 57, 106
+  offset: 0, 0
+  index: 4
+soldier-sv-ct-w16a
+  rotate: false
+  xy: 285, 0
+  size: 57, 106
+  orig: 57, 106
+  offset: 0, 0
+  index: 5
+soldier-sv-ct-w16a
+  rotate: false
+  xy: 342, 0
+  size: 57, 106
+  orig: 57, 106
+  offset: 0, 0
+  index: 6
+soldier-sv-ct-w16a
+  rotate: false
+  xy: 399, 0
+  size: 57, 106
+  orig: 57, 106
+  offset: 0, 0
+  index: 7
+soldier-sv-ct-w16a
+  rotate: false
+  xy: 456, 0
+  size: 57, 106
+  orig: 57, 106
+  offset: 0, 0
+  index: 8
+soldier-sv-ct-w16a
+  rotate: false
+  xy: 513, 0
+  size: 57, 106
+  orig: 57, 106
+  offset: 0, 0
+  index: 9
+soldier-sv-ct-w16a
+  rotate: false
+  xy: 570, 0
+  size: 57, 106
+  orig: 57, 106
+  offset: 0, 0
+  index: 11
+soldier-sv-ct-w16a
+  rotate: false
+  xy: 627, 0
+  size: 57, 106
+  orig: 57, 106
+  offset: 0, 0
+  index: 12
+soldier-sv-ct-w16a
+  rotate: false
+  xy: 684, 0
+  size: 57, 106
+  orig: 57, 106
+  offset: 0, 0
+  index: 13
+soldier-sv-ct-w16a
+  rotate: false
+  xy: 741, 0
+  size: 57, 106
+  orig: 57, 106
+  offset: 0, 0
+  index: 14
+soldier-sv-ct-w16a
+  rotate: false
+  xy: 798, 0
+  size: 57, 106
+  orig: 57, 106
+  offset: 0, 0
+  index: 15
+soldier-sv-ct-w16a
+  rotate: false
+  xy: 855, 0
+  size: 57, 106
+  orig: 57, 106
+  offset: 0, 0
+  index: 16
+soldier-sv-ct-w16a
+  rotate: false
+  xy: 912, 0
+  size: 57, 106
+  orig: 57, 106
+  offset: 0, 0
+  index: 17
+soldier-sv-ct-w16a
+  rotate: false
+  xy: 969, 0
+  size: 57, 106
+  orig: 57, 106
+  offset: 0, 0
+  index: 18
+soldier-sv-ct-w16a
+  rotate: false
+  xy: 1026, 0
+  size: 57, 106
+  orig: 57, 106
+  offset: 0, 0
+  index: 19

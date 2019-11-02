@@ -1,0 +1,145 @@
+
+soldier-ht-m20-animation.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+soldier-ht-m20
+  rotate: false
+  xy: 0, 0
+  size: 57, 114
+  orig: 57, 114
+  offset: 0, 0
+  index: 0
+soldier-ht-m20
+  rotate: false
+  xy: 0, 0
+  size: 57, 114
+  orig: 57, 114
+  offset: 0, 0
+  index: 10
+soldier-ht-m20
+  rotate: false
+  xy: 57, 0
+  size: 57, 114
+  orig: 57, 114
+  offset: 0, 0
+  index: 1
+soldier-ht-m20
+  rotate: false
+  xy: 114, 0
+  size: 57, 114
+  orig: 57, 114
+  offset: 0, 0
+  index: 2
+soldier-ht-m20
+  rotate: false
+  xy: 171, 0
+  size: 57, 114
+  orig: 57, 114
+  offset: 0, 0
+  index: 3
+soldier-ht-m20
+  rotate: false
+  xy: 228, 0
+  size: 57, 114
+  orig: 57, 114
+  offset: 0, 0
+  index: 4
+soldier-ht-m20
+  rotate: false
+  xy: 285, 0
+  size: 57, 114
+  orig: 57, 114
+  offset: 0, 0
+  index: 5
+soldier-ht-m20
+  rotate: false
+  xy: 342, 0
+  size: 57, 114
+  orig: 57, 114
+  offset: 0, 0
+  index: 6
+soldier-ht-m20
+  rotate: false
+  xy: 399, 0
+  size: 57, 114
+  orig: 57, 114
+  offset: 0, 0
+  index: 7
+soldier-ht-m20
+  rotate: false
+  xy: 456, 0
+  size: 57, 114
+  orig: 57, 114
+  offset: 0, 0
+  index: 8
+soldier-ht-m20
+  rotate: false
+  xy: 513, 0
+  size: 57, 114
+  orig: 57, 114
+  offset: 0, 0
+  index: 9
+soldier-ht-m20
+  rotate: false
+  xy: 570, 0
+  size: 57, 114
+  orig: 57, 114
+  offset: 0, 0
+  index: 11
+soldier-ht-m20
+  rotate: false
+  xy: 627, 0
+  size: 57, 114
+  orig: 57, 114
+  offset: 0, 0
+  index: 12
+soldier-ht-m20
+  rotate: false
+  xy: 684, 0
+  size: 57, 114
+  orig: 57, 114
+  offset: 0, 0
+  index: 13
+soldier-ht-m20
+  rotate: false
+  xy: 741, 0
+  size: 57, 114
+  orig: 57, 114
+  offset: 0, 0
+  index: 14
+soldier-ht-m20
+  rotate: false
+  xy: 798, 0
+  size: 57, 114
+  orig: 57, 114
+  offset: 0, 0
+  index: 15
+soldier-ht-m20
+  rotate: false
+  xy: 855, 0
+  size: 57, 114
+  orig: 57, 114
+  offset: 0, 0
+  index: 16
+soldier-ht-m20
+  rotate: false
+  xy: 912, 0
+  size: 57, 114
+  orig: 57, 114
+  offset: 0, 0
+  index: 17
+soldier-ht-m20
+  rotate: false
+  xy: 969, 0
+  size: 57, 114
+  orig: 57, 114
+  offset: 0, 0
+  index: 18
+soldier-ht-m20
+  rotate: false
+  xy: 1026, 0
+  size: 57, 114
+  orig: 57, 114
+  offset: 0, 0
+  index: 19

@@ -1,0 +1,145 @@
+
+soldier-sv-medkit-animation.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+soldier-sv-medkit
+  rotate: false
+  xy: 0, 0
+  size: 78, 77
+  orig: 78, 77
+  offset: 0, 0
+  index: 0
+soldier-sv-medkit
+  rotate: false
+  xy: 0, 0
+  size: 78, 77
+  orig: 78, 77
+  offset: 0, 0
+  index: 10
+soldier-sv-medkit
+  rotate: false
+  xy: 78, 0
+  size: 78, 77
+  orig: 78, 77
+  offset: 0, 0
+  index: 1
+soldier-sv-medkit
+  rotate: false
+  xy: 156, 0
+  size: 78, 77
+  orig: 78, 77
+  offset: 0, 0
+  index: 2
+soldier-sv-medkit
+  rotate: false
+  xy: 234, 0
+  size: 78, 77
+  orig: 78, 77
+  offset: 0, 0
+  index: 3
+soldier-sv-medkit
+  rotate: false
+  xy: 312, 0
+  size: 78, 77
+  orig: 78, 77
+  offset: 0, 0
+  index: 4
+soldier-sv-medkit
+  rotate: false
+  xy: 390, 0
+  size: 78, 77
+  orig: 78, 77
+  offset: 0, 0
+  index: 5
+soldier-sv-medkit
+  rotate: false
+  xy: 468, 0
+  size: 78, 77
+  orig: 78, 77
+  offset: 0, 0
+  index: 6
+soldier-sv-medkit
+  rotate: false
+  xy: 546, 0
+  size: 78, 77
+  orig: 78, 77
+  offset: 0, 0
+  index: 7
+soldier-sv-medkit
+  rotate: false
+  xy: 624, 0
+  size: 78, 77
+  orig: 78, 77
+  offset: 0, 0
+  index: 8
+soldier-sv-medkit
+  rotate: false
+  xy: 702, 0
+  size: 78, 77
+  orig: 78, 77
+  offset: 0, 0
+  index: 9
+soldier-sv-medkit
+  rotate: false
+  xy: 780, 0
+  size: 78, 77
+  orig: 78, 77
+  offset: 0, 0
+  index: 11
+soldier-sv-medkit
+  rotate: false
+  xy: 858, 0
+  size: 78, 77
+  orig: 78, 77
+  offset: 0, 0
+  index: 12
+soldier-sv-medkit
+  rotate: false
+  xy: 936, 0
+  size: 78, 77
+  orig: 78, 77
+  offset: 0, 0
+  index: 13
+soldier-sv-medkit
+  rotate: false
+  xy: 1014, 0
+  size: 78, 77
+  orig: 78, 77
+  offset: 0, 0
+  index: 14
+soldier-sv-medkit
+  rotate: false
+  xy: 1092, 0
+  size: 78, 77
+  orig: 78, 77
+  offset: 0, 0
+  index: 15
+soldier-sv-medkit
+  rotate: false
+  xy: 1170, 0
+  size: 78, 77
+  orig: 78, 77
+  offset: 0, 0
+  index: 16
+soldier-sv-medkit
+  rotate: false
+  xy: 1248, 0
+  size: 78, 77
+  orig: 78, 77
+  offset: 0, 0
+  index: 17
+soldier-sv-medkit
+  rotate: false
+  xy: 1326, 0
+  size: 78, 77
+  orig: 78, 77
+  offset: 0, 0
+  index: 18
+soldier-sv-medkit
+  rotate: false
+  xy: 1404, 0
+  size: 78, 77
+  orig: 78, 77
+  offset: 0, 0
+  index: 19
