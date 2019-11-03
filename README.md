@@ -58,7 +58,7 @@ Rendezvous can be run on Linux, macOS and Windows. For Web, Android and iOS buil
 
 [Packaging a LibGDX project ](https://libgdx.badlogicgames.com/documentation/gettingstarted/Packaging.html)
 
-## Tools used
+## Development tools
 
 IntelliJ IDEA: IDE
 
