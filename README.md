@@ -6,9 +6,17 @@ Rendezvous is a 2D game of the genre Battle Royale made in Java with the help of
 
 The game was influenced by a number of wonderful games. For example, the type of projection, position (top down) and camera movement (that follows the cursor) resembles that of Hotline Miami. Many concepts of PlayerUnknown's Battlegrounds, one of the most popular of the genre, were also adopted. In fact, the military-focused theme arose from that game. The HUD had some influence on how straightforward this element is in Fortnite. Finally, the art of Rendezvous aims at the simplicity of Minecraft graphics.
 
-## Images
+## Screenshots
 
-x
+![img1](https://i.imgur.com/PdViseF.png)
+![img2](https://i.imgur.com/vT4rB1t.png)
+![img3](https://i.imgur.com/rbFMC9w.png)
+![img4](https://i.imgur.com/YypnJFa.png)
+![img5](https://i.imgur.com/r7C11kc.png)
+![img6](https://i.imgur.com/3MEdqW3.png)
+![img7](https://i.imgur.com/Rppb39c.png)
+![img8](https://i.imgur.com/AtZRgAy.png)
+![img9](https://i.imgur.com/3DCZo69.png)
 
 ## How to play
 
@@ -19,11 +27,17 @@ You may notice a timer at the top of the screen. There is a white circle on the 
 ## Controls
 
 Movement: AWSD
+
 Aim: Mouse
+
 Shooting: Left Mouse Button
+
 Select item: 1-6 or Middle Mouse Button scroll
+
 Interaction: E
+
 Reload: R
+
 Map: M
 
 ## Configuration
@@ -34,7 +48,7 @@ Rendezvous is available in two languages: English and Brazilian Portuguese. The 
 
 Rendezvous can be run on Linux, macOS and Windows. For Web, Android and iOS builds to be produced, some adjustments have to be performed.
 
-x
+## [Alpha Release](https://github.com/brensio/rendezvous/releases/tag/v0.1.0)
 
 ## Useful links
 
