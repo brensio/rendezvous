@@ -52,7 +52,7 @@ Rendezvous can be run on Linux, macOS and Windows. For Web, Android and iOS buil
 
 ## Useful links
 
-[LibGDX](https://github.com/brensio/rendezvous/releases/tag/v0.1.0)
+[LibGDX](https://libgdx.badlogicgames.com/)
 
 [Importing a LibGDX project](https://libgdx.badlogicgames.com/documentation/gettingstarted/Importing%20into%20IDE.html)
 
