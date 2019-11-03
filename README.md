@@ -48,9 +48,15 @@ Rendezvous is available in two languages: English and Brazilian Portuguese. The 
 
 Rendezvous can be run on Linux, macOS and Windows. For Web, Android and iOS builds to be produced, some adjustments have to be performed.
 
-## [Alpha Release](https://github.com/brensio/rendezvous/releases/tag/v0.1.0)
+### [Alpha Release](https://github.com/brensio/rendezvous/releases/tag/v0.1.0)
 
 ## Useful links
+
+[LibGDX](https://github.com/brensio/rendezvous/releases/tag/v0.1.0)
+
+[Importing a LibGDX project](https://libgdx.badlogicgames.com/documentation/gettingstarted/Importing%20into%20IDE.html)
+
+[Packaging a LibGDX project ](https://libgdx.badlogicgames.com/documentation/gettingstarted/Packaging.html)
 
 ## Tools used
 
