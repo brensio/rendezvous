@@ -1,4 +1,10 @@
 # Rendezvous
+
+[![](https://img.shields.io/github/downloads-pre/brensio/rendezvous/v0.1.0/total?style=for-the-badge)](https://github.com/brensio/rendezvous/releases)
+[![](https://img.shields.io/github/license/brensio/rendezvous?style=for-the-badge)](https://github.com/brensio/rendezvous/blob/master/LICENSE)
+[![](https://img.shields.io/github/issues/brensio/rendezvous?style=for-the-badge)](https://github.com/brensio/rendezvous/issues)
+[![](https://img.shields.io/github/forks/brensio/rendezvous?style=for-the-badge)](https://github.com/brensio/rendezvous/network/members)
+[![](https://img.shields.io/github/stars/brensio/rendezvous?style=for-the-badge)](https://github.com/brensio/rendezvous/stargazers)
  
 ## Introduction
 
